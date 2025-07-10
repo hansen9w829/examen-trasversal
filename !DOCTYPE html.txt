@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Contenedor Nginx</title>
+</head>
+<body>
+  <h1>¡Hola desde mi contenedor con Nginx en AWS!</h1>
+</body>
+</html>
